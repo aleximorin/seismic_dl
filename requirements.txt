@@ -6,4 +6,3 @@ numpy==1.26.4
 obspy==1.4.0
 scipy==1.12.0
 torch==2.1.0
-~atplotlib==3.8.1
